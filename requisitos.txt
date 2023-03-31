@@ -1,0 +1,14 @@
+criação de um catálogo de demandas. O sistema deve ter a opção de adicionar demandas com informações básicas do 
+demandante area, curso, objetivo, responsabilidades do aluno, local, qtd de horas, horário de disponibilidade. O aluno precisa ter a opçaõ de 
+escolher a demanda que quser 
+o aluno deve ter uma matricula unochapeco para login   . o catalogo deve ser preenchido pela DEEC. 
+o aluno nao pode realizar troca via aplicaçaõ a partir da data definida pela DEEC
+o site vai ser hospedado preferencialmente na unochapeco. (conversar com DTI) a aplicação deve ter a opção de integrar a planilha forecida pelo 
+setor de bolsas com as informações dos alunos.
+a aplicação pode mostrar preferencialmente demandas com relação ao curso.
+api com todos os cursos da unochapeco para popular o banco.
+as presenças devem ser monitoradas e efeuadas através da aplicação assim como as entras solicitadas.
+o sistema deve notificar os alunos de suas responsabilidades.
+entrega do diario de bordo é feita pela aplicação.
+a aplicação deve evidenciar as pendencias dos alunos como faltas e observações dos deandantes.
+
